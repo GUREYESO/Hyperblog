@@ -6,3 +6,5 @@ Att: Gustavo Reyes
 En cámara parece alto pero en realidad no es tan alto.
 
 Fauncionará este tercer commit?
+
+Hoy hablaremos de su vida.
